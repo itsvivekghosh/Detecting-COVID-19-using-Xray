@@ -3,15 +3,15 @@ Detect Disease using Deep Learning and Transfer Learning(ResNet50)
 
 <p>
 COVID-19 Classifier from X-Ray Images
-Tasks
-[✔️] Exploratory Data Analysis
-[✔️] Image augumentation
-[✔️] Base CNN model accuracy calculation
-[✔️] Base CNN model with lower imbalance data
-[✔️] RESNET 50 model accuracy calculation
-[✔️] EfficientNet B4 accuracy calculation
-[✔️] AUC Score comparision
-[⚫] Results
+Tasks<br>
+[✔️] Exploratory Data Analysis<br>
+[✔️] Image augumentation<br>
+[✔️] Base CNN model accuracy calculation<br>
+[✔️] Base CNN model with lower imbalance data<br>
+[✔️] RESNET 50 model accuracy calculation<br>
+[✔️] EfficientNet B4 accuracy calculation<br>
+[✔️] AUC Score comparision<br>
+[⚫] Results<br>
   </p>
 <br>
 Version Information
