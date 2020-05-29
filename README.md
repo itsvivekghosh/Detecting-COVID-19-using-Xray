@@ -1,7 +1,7 @@
 # Detecting-COVID-19-using-Xray
 Detect Disease using Deep Learning and Transfer Learning(ResNet50)
 
-
+<p>
 COVID-19 Classifier from X-Ray Images
 Tasks
 [✔️] Exploratory Data Analysis
@@ -12,6 +12,7 @@ Tasks
 [✔️] EfficientNet B4 accuracy calculation
 [✔️] AUC Score comparision
 [⚫] Results
+  </p>
 <br>
 Version Information
 v1 :
